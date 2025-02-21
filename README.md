@@ -12,7 +12,7 @@ This repository includes data preprocessing, exploratory data analysis (EDA), an
 
 1. Data Cleaning & Preprocessing:
   * Loaded and cleaned the raw dataset.
-  * Handled missing values and data inconsistencies.
+  * Handled data inconsistencies.
   * Converted categorical variables and adjusted data types.
 2. Exploratory Data Analysis (EDA):
   * Visualized trends in stress levels over time.
