@@ -1,5 +1,8 @@
 # AAI-530_Grp_5
 
+Tableau Dashboard Link:  https://public.tableau.com/views/Assignment7_1-FinalProjectNurseStressPredictionEDAAnalysis/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
 Nurse Stress Prediction using Wearable Sensors
 
 Project Overview: 
